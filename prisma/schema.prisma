@@ -3,12 +3,12 @@ generator client {
 }
 
 datasource db {
-  provider = "sqlite"
+  provider = "postgresql"
   url      = env("DATABASE_URL")
 }
 
 model Feedback {
-  id         String  @default(uuid()) @id
+  id         String  @id @default(uuid())
   type       String
   comment    String
   screenshot String?
