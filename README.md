@@ -63,10 +63,10 @@ Para clonar e executar este aplicativo, você precisará do [Git](https://git-sc
 No terminal de os seguintes comandos:
 ```bash
 # Clone o repositorio
-$ git clone https://github.com/DhioneCastilho/SemanaOnmiStack11
+$ git clone https://github.com/DhioneCastilho/NLW-Return-Impulse-Backend
 
 # Abra cada um dos repositorios 
-$ cd /server
+$ cd /NLW-Return-Impulse-Backend/Server
 
 # instale as dependencias
 $ npm install
