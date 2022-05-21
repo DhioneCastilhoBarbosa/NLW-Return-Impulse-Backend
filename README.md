@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-<img alt="capa" title="#Capa" src="./img/capa.png" width="700px" />
+<img alt="capa" title="#Capa" src="./img/Capa.png" width="700px" />
 
  </div>
 
